@@ -1,0 +1,11 @@
+print("---Willkommen zum Geburtstagskarten-Generator---")
+name = input("Name der zu grüßenden Person engeben: ")
+age = input("Alter der zu grüßenden Person eingeben: ")
+sender = input("Eigenen Namen eingeben: ")
+
+print("Hallo " + name + ",")
+print("Ich wünsche dir alles gute zum " + age + "ten Geburtstag.")
+print("Ich hoffe, dass du einen schönen Tag hast und mit deinen liebsten feierst.")
+print("Zudem wünsche ich dir alles nur erdenklich gute im neuen Lebensjahr und viel Gesundheit!")
+print("Liebe Grüße")
+print(sender)
